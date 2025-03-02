@@ -1,4 +1,4 @@
-#Excel-Based Business & Financial Analysis Projects #1
+# Excel-Based Business & Financial Analysis Projects #1
 
 This repository contains structured **Excel projects** covering **financial planning, market analysis, and data processing**.  
 
