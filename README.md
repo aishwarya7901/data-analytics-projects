@@ -23,7 +23,8 @@ To create a **personal budget tracker** that categorizes expenses, tracks income
 ### **Outcome:**  
 ✅ **Achieved real-time financial tracking** with automated calculations.  
 ✅ **Identified overspending areas** to improve savings strategies.  
-[🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srbmMXaP3hBAo2svM?e=qXD0IH)
+
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srbmMXaP3hBAo2svM?e=qXD0IH)
 
 ---
 
@@ -38,6 +39,8 @@ To **merge dimension tables** into a **fact table** using various lookup functio
 
 ### **Outcome:**  
 ✅ Successfully merged **dimension tables** into a **fact table**.  
+
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srbXSS1z2v98wM0fE?e=JkH6AD)
 
 ---
 
@@ -54,6 +57,8 @@ To calculate **Equated Monthly Installments (EMI)** and summarize loan details.
 ✅ Completed **EMI calculations** based on given financial parameters.  
 ✅ Designed a **structured loan summary** for better financial tracking.  
 
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srb6Xgrsp2lPoMiq4?e=1FC658)
+  
 ---
 
 ## **Project 5.0 - Financial Reporting Automation**  
@@ -69,6 +74,8 @@ To automate **financial report generation** for better accuracy and efficiency.
 ### **Outcome:**  
 ✅ Reduced **manual reporting time** by 40%.  
 ✅ Improved **financial data accuracy** and visualization.  
+
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srcFXLjUxUbXzIn_o?e=NBVpsU)
 
 ---
 
@@ -86,6 +93,8 @@ To analyze **customer purchase patterns** and identify trends.
 ✅ Identified **loyal & high-spending customers**.  
 ✅ Suggested **customer retention strategies** based on data insights.  
 
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srcfBlqPygrYWAXLU?e=y9j1ou)
+
 ---
 
 ## **Project 8.0 - Revenue Forecasting & Trend Analysis**  
@@ -101,6 +110,8 @@ To predict **future revenue trends** using historical data.
 ### **Outcome:**  
 ✅ Forecasted revenue growth for **better strategic planning**.  
 ✅ Identified **seasonal patterns** affecting revenue fluctuations.  
+
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srdBWg2lgFd899jI4?e=wlWid8)
 
 ---
 
@@ -119,6 +130,8 @@ In this project, we worked with a large dataset containing **800,000 rows** of f
 - Provided a **clear breakdown of Gross Margin%** across multiple markets and time periods.  
 - Ensured insights were visually intuitive and aligned with industry-standard reporting formats.  
 
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srdVKvedyLra_WNkQ?e=RjMWcz)
+
 ---
 
 ## Project 9.2 - Profit & Loss Analysis  
@@ -128,6 +141,8 @@ Added filters for **region, market, customer, and division** to make the data mo
 Also included a **YoY comparison (21 vs 20)** to spot trends easily.  
 
 ✅ **Key Takeaway:** A simple but effective breakdown of financial performance! 🚀  
+
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srdi-EJLVdOE8A-CU?e=VN0iBV)
 
 ---
 
@@ -147,6 +162,8 @@ To create a **Priority Matrix** using a **Bubble Chart** to visualize and compar
 ### **Outcome:**  
 ✅ Successfully **ranked and compared projects** to prioritize the most impactful ones.  
 ✅ Enabled data-driven decision-making for **resource allocation and project selection**.  
+
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srcvDhbMVPjBsfcVk?e=Dxizo0)
 
 ---
 
@@ -170,6 +187,8 @@ To perform **scenario planning** for sales projections by analyzing **Best Case,
 ### **Outcome:**  
 ✅ Provided **financial insights** to assess profitability risks.  
 ✅ Identified that the **Worst Case scenario falls below the GM target**, helping in **risk mitigation planning**.  
+
+  [🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_src_NcrOggZPHZt-8?e=K42fI7)
 
 ---
 
