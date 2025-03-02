@@ -23,6 +23,7 @@ To create a **personal budget tracker** that categorizes expenses, tracks income
 ### **Outcome:**  
 ✅ **Achieved real-time financial tracking** with automated calculations.  
 ✅ **Identified overspending areas** to improve savings strategies.  
+[🔍 View Task](https://1drv.ms/x/s!Ajmv37Z-3_srbmMXaP3hBAo2svM?e=qXD0IH)
 
 ---
 
@@ -103,7 +104,7 @@ To predict **future revenue trends** using historical data.
 
 ---
 
-### **Set 9: Financial Reports for Atliq Hardwares**  
+### **Set 9.1 : Financial Reports for Atliq Hardwares**  
 
 In this project, we worked with a large dataset containing **800,000 rows** of financial data for Atliq Hardwares. The objective was to create two structured reports, **report1.pdf** and **report2.pdf**, following the provided reference file, *Finance Report Atliq Hardwares.xlsx*.  
 
@@ -117,6 +118,16 @@ In this project, we worked with a large dataset containing **800,000 rows** of f
 - Delivered two well-structured reports highlighting financial trends and market-wise profitability.  
 - Provided a **clear breakdown of Gross Margin%** across multiple markets and time periods.  
 - Ensured insights were visually intuitive and aligned with industry-standard reporting formats.  
+
+---
+
+## Project 9.2 - Profit & Loss Analysis  
+
+A quick analysis of **Net Sales, COGS, Gross Margin, and % Margin** using Pivot Tables and Charts.  
+Added filters for **region, market, customer, and division** to make the data more interactive.  
+Also included a **YoY comparison (21 vs 20)** to spot trends easily.  
+
+✅ **Key Takeaway:** A simple but effective breakdown of financial performance! 🚀  
 
 ---
 
