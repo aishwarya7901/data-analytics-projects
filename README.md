@@ -4,7 +4,7 @@ This repository contains structured **Excel projects** covering **financial plan
 
 ---
 
-## **Project 2.0 - Personal Budget & Expense Tracker**  
+## **Task 2.0 - Personal Budget & Expense Tracker**  
 
 ### **Objective:**  
 To create a **personal budget tracker** that categorizes expenses, tracks income, and provides financial insights.  
@@ -28,7 +28,7 @@ To create a **personal budget tracker** that categorizes expenses, tracks income
 
 ---
 
-## **Project 3.0 - Product Sales Analysis**  
+## **Task 3.0 - Product Sales Analysis**  
 
 ### **Objective:**  
 To **merge dimension tables** into a **fact table** using various lookup functions for data consolidation.  
@@ -44,7 +44,7 @@ To **merge dimension tables** into a **fact table** using various lookup functio
 
 ---
 
-## **Project 4.0 - EMI & Loan Summary**  
+## **Task 4.0 - EMI & Loan Summary**  
 
 ### **Objective:**  
 To calculate **Equated Monthly Installments (EMI)** and summarize loan details.  
@@ -61,7 +61,7 @@ To calculate **Equated Monthly Installments (EMI)** and summarize loan details.
   
 ---
 
-## **Project 5.0 - Financial Reporting Automation**  
+## **Task 5.0 - Financial Reporting Automation**  
 
 ### **Objective:**  
 To automate **financial report generation** for better accuracy and efficiency.  
@@ -79,7 +79,7 @@ To automate **financial report generation** for better accuracy and efficiency.
 
 ---
 
-## **Project 6.0 - Customer Purchase Behavior Analysis**  
+## **Task 6.0 - Customer Purchase Behavior Analysis**  
 
 ### **Objective:**  
 To analyze **customer purchase patterns** and identify trends.  
@@ -97,7 +97,7 @@ To analyze **customer purchase patterns** and identify trends.
 
 ---
 
-## **Project 8.0 - Revenue Forecasting & Trend Analysis**  
+## **Task 8.0 - Revenue Forecasting & Trend Analysis**  
 
 ### **Objective:**  
 To predict **future revenue trends** using historical data.  
@@ -134,7 +134,7 @@ In this project, we worked with a large dataset containing **800,000 rows** of f
 
 ---
 
-## Project 9.2 - Profit & Loss Analysis  
+## Task 9.2 - Profit & Loss Analysis  
 
 A quick analysis of **Net Sales, COGS, Gross Margin, and % Margin** using Pivot Tables and Charts.  
 Added filters for **region, market, customer, and division** to make the data more interactive.  
@@ -167,7 +167,7 @@ To create a **Priority Matrix** using a **Bubble Chart** to visualize and compar
 
 ---
 
-## **Project 10.2 - Scenario Planning for Sales Projections**  
+## **Task 10.2 - Scenario Planning for Sales Projections**  
 
 ### **Objective:**  
 To perform **scenario planning** for sales projections by analyzing **Best Case, Realistic, and Worst Case** scenarios.  
